@@ -4,7 +4,6 @@ A deep reinforcment learning model to solve the Euclidean Steiner Tree (EST) pro
 
 ## paper
 Implementation of our paper: [Deep-Steiner: Learning to Solve the Euclidean Steiner Tree Problem](https://arxiv.org/abs/2209.09983), which is accepted by [EAI WiCON 2022](https://wicon.eai-conferences.org/2022/).
-![Deep-Steiner](Example/Deep-Steiner_281.pdf)
 ## Dependencies
 
 * Python>=3.8
